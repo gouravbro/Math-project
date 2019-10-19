@@ -1,0 +1,16 @@
+@media screen and (min-width: 480px) {
+    nav ul {
+        display: none;
+    }
+}
+
+/* 
+@media screen and (max-width: 992px) {
+    .sectional-nav ul li {
+        font-size: 16px;
+    }
+
+    .sectional-nav ul li {
+        padding: 20px 5px;
+    }
+} */
